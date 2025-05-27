@@ -10,7 +10,7 @@ export const loadHome = () => {
     main.appendChild(img);
 
     const h1 = document.createElement("h1");
-    h1.textContent = "Welcome to Homepage! Woop Woop";
+    h1.textContent = "Welcome to Homepage! Woop";
     main.appendChild(h1);
 
     const p = document.createElement("p");
